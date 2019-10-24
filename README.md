@@ -22,7 +22,7 @@
 + 远程仓库管理
   + 查看远程服务器地址和仓库名称 `git remote -v`
   + 查看远程服务器状态 `git remote show origin`
-  + 设置远程仓库地址 `git remote set-url origin https://github.com/stxkfzx/GitTest.git`
+  + 设置远程仓库地址 `git remote set-url origin xxxurl`
 + 其他
   + 命令简写
     + `git config --global alias.co checkout` 命令缩写
