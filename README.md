@@ -28,4 +28,3 @@
     + `git config --global alias.co checkout` 命令缩写
     + `git config --global alias.cm commit` 命令缩写
     + `git config --global alias.br branch` 命令缩写
-    + test
